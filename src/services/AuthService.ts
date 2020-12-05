@@ -1,6 +1,8 @@
 import axios from 'axios';
 
-let API_URL = process.env.VUE_APP_BACKEND_URL|| 'http://localhost:8080/api/' 
+console.log('process.env.VUE_APP_BACKEND_URL' , process.env.VUE_APP_BACKEND_URL)
+
+let API_URL = process.env.VUE_APP_BACKEND_URL || 'http://localhost:8080/api/' 
 API_URL += 'auth/';
 
 class AuthService {
