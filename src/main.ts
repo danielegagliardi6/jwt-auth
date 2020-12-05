@@ -14,6 +14,7 @@ import {
   faSignInAlt,
   faSignOutAlt
 } from '@fortawesome/free-solid-svg-icons';
+require('dotenv').config();
 
 library.add(faHome, faUser, faUserPlus, faSignInAlt, faSignOutAlt);
 
