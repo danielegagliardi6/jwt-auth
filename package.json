@@ -14,7 +14,7 @@
         "@vue/cli-plugin-babel": "^4.5.0",
         "@vue/cli-plugin-typescript": "^4.5.0",
         "@vue/cli-service": "^4.5.0",
-        "axios": "^0.20.0",
+        "axios": "^0.21.2",
         "bootstrap": "^4.5.2",
         "core-js": "^3.6.5",
         "dotenv": "^8.2.0",
