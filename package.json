@@ -23,7 +23,7 @@
         "typescript": "~3.9.3",
         "vee-validate": "^2.2.15",
         "vue": "^2.6.11",
-        "vue-class-component": "^7.2.3",
+        "vue-class-component": "^7.2.6",
         "vue-property-decorator": "^8.4.2",
         "vue-router": "^3.4.3",
         "vue-template-compiler": "^2.6.11",
