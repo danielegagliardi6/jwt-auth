@@ -16,7 +16,7 @@
         "@vue/cli-service": "^4.5.0",
         "axios": "^0.27.2",
         "bootstrap": "^4.5.2",
-        "core-js": "^3.6.5",
+        "core-js": "^3.25.5",
         "dotenv": "^16.0.2",
         "jquery": "^3.6.1",
         "popper.js": "^1.16.1",
